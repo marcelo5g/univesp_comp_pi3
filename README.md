@@ -7,6 +7,7 @@
 - José William Rodrigues Pereira, RA 2004712  
 - Marcelo Martins Ribeiro dos Santos, RA 2009113 
 - Rideu Santos Barros da Silva, RA 2008166 
+- João Clemente Olivera Moraes RA 1835382
 
 # Agenda escolar digital
 
