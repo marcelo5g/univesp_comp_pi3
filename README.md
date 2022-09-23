@@ -17,6 +17,7 @@ Este projeto tem por objetivo possibilitar um registro e acompanhamento mais det
 | 2009113 | Marcelo Martins Ribeiro dos Santos |  |
 | 2008166 | Rideu Santos Barros da Silva       |  |
 | 1835382 | João Clemente Olivera Moraes       |  |
+| 1600438 | Lucas Muniz Moreira                |  Eng. Computação |
 ||||
 
 ## Quando?
