@@ -22,9 +22,27 @@ Este projeto tem por objetivo possibilitar um registro e acompanhamento mais det
 ## Quando?
 
 ## Onde?
-## Como?
+
+## Estrutura do Projeto
 
 ![Estrutura do Projeto](img/estrutura.png)
+
+### Estrutura e ferramentas
+* Nuvem
+    * Banco de dados
+        * Postgres
+    * APIs
+        * Flask
+* App Mobile
+    * Kotlin
+* Aplicação Web
+    * HTML/CSS/JS
+
+### Análise de dados
+* Reconhecimento de padrões
+
+### Controle de versão
+* Git/GitHub
 
 
 ## Quanto?
