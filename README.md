@@ -24,7 +24,7 @@ Este projeto tem por objetivo possibilitar um registro e acompanhamento mais det
 ## Onde?
 ## Como?
 
-![Estrutura do Projeto]()
+![Estrutura do Projeto](img/estrutura.png)
 
 
 ## Quanto?
